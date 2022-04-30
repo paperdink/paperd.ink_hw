@@ -1,2 +1,1 @@
-# paperd.ink_hw
-Hardware files for paperd.ink
+# paperd.ink PCB files
