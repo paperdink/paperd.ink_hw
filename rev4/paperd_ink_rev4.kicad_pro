@@ -352,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "paperd_ink_rev4.kicad_pro.kicad_pro",
+    "filename": "paperd_ink_rev4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -431,7 +431,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Output/paperd_ink_rev3.step",
+      "step": "Output/paperd_ink_rev4.step",
       "vmrl": "",
       "vrml": ""
     },

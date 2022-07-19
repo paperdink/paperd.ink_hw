@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/rgujju/Documents/paperd.ink/paperdink_new/Electronics/rev4/paperd_ink_rev4.kicad_sch</source>
-    <date>Mon 18 Jul 2022 09:28:48 PM CDT</date>
+    <date>Mon 18 Jul 2022 09:41:19 PM CDT</date>
     <tool>Eeschema (6.0.2)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -815,7 +815,7 @@
         <field name="MPN">WR04X4703FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_2" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C168230"/>
       <property name="MPN" value="WR04X4703FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -832,7 +832,7 @@
         <field name="MPN">WR04X122JTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_26" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C170376"/>
       <property name="MPN" value="WR04X122JTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -849,7 +849,7 @@
         <field name="MPN">WR04X4703FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_25" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C168230"/>
       <property name="MPN" value="WR04X4703FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -866,7 +866,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_18" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -883,7 +883,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_20" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -900,7 +900,7 @@
         <field name="MPN">0603WAF470LT5E</field>
         <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_19" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C23411"/>
       <property name="MPN" value="0603WAF470LT5E"/>
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
@@ -917,7 +917,7 @@
         <field name="MPN">RMS04FT1004</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_6" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208777"/>
       <property name="MPN" value="RMS04FT1004"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -934,7 +934,7 @@
         <field name="MPN">WR04X122JTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_4" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C170376"/>
       <property name="MPN" value="WR04X122JTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -968,7 +968,7 @@
         <field name="MPN">AC0402FR-071M6L</field>
         <field name="Manufacturer">YAGEO</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_27" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C226874"/>
       <property name="MPN" value="AC0402FR-071M6L"/>
       <property name="Manufacturer" value="YAGEO"/>
@@ -985,7 +985,7 @@
         <field name="MPN">RMS04FT1004</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_28" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208777"/>
       <property name="MPN" value="RMS04FT1004"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1002,7 +1002,7 @@
         <field name="MPN">WR04X122JTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_23" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C170376"/>
       <property name="MPN" value="WR04X122JTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1019,7 +1019,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_14" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1036,7 +1036,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_15" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1053,7 +1053,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_13" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1070,7 +1070,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_16" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1087,7 +1087,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_21" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1104,7 +1104,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_22" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1121,7 +1121,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_8" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1138,7 +1138,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_17" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1155,7 +1155,7 @@
         <field name="MPN">RMS04FT1004</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_7" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208777"/>
       <property name="MPN" value="RMS04FT1004"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1172,7 +1172,7 @@
         <field name="MPN">WR04X122JTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_3" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C170376"/>
       <property name="MPN" value="WR04X122JTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1189,7 +1189,7 @@
         <field name="MPN">0402WGJ0471TCE</field>
         <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec) </field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_1" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C25167"/>
       <property name="MPN" value="0402WGJ0471TCE"/>
       <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec) "/>
@@ -1206,7 +1206,7 @@
         <field name="MPN">WR04X4703FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_24" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C168230"/>
       <property name="MPN" value="WR04X4703FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1223,7 +1223,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_5" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1240,7 +1240,7 @@
         <field name="MPN">RMS04JT103</field>
         <field name="Manufacturer">TA-I Tech</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_12" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C208959"/>
       <property name="MPN" value="RMS04JT103"/>
       <property name="Manufacturer" value="TA-I Tech"/>
@@ -1257,7 +1257,7 @@
         <field name="MPN">WR04X122JTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_9" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C170376"/>
       <property name="MPN" value="WR04X122JTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1274,7 +1274,7 @@
         <field name="MPN">WR04X1200FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_10" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C168196"/>
       <property name="MPN" value="WR04X1200FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1291,7 +1291,7 @@
         <field name="MPN">WR04X4703FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_11" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C168230"/>
       <property name="MPN" value="WR04X4703FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1308,7 +1308,7 @@
         <field name="MPN">WR04X5101FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_2" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C163833"/>
       <property name="MPN" value="WR04X5101FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1325,7 +1325,7 @@
         <field name="MPN">WR04X5101FTL</field>
         <field name="Manufacturer">Walsin Tech Corp</field>
       </fields>
-      <libsource lib="" part="Device:R_Small_US_2" description="Resistor, small US symbol"/>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="LCSC" value="C163833"/>
       <property name="MPN" value="WR04X5101FTL"/>
       <property name="Manufacturer" value="Walsin Tech Corp"/>
@@ -1359,7 +1359,7 @@
         <field name="MPN">TS36CA-0.7</field>
         <field name="Manufacturer">SHOU HAN</field>
       </fields>
-      <libsource lib="" part="Switch:SW_Push_1" description="Push button switch, generic, two pins"/>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="LCSC" value="C412365"/>
       <property name="MPN" value="TS36CA-0.7"/>
       <property name="Manufacturer" value="SHOU HAN"/>
@@ -1376,7 +1376,7 @@
         <field name="MPN">TS36CA-0.7</field>
         <field name="Manufacturer">SHOU HAN</field>
       </fields>
-      <libsource lib="" part="Switch:SW_Push_2" description="Push button switch, generic, two pins"/>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="LCSC" value="C412365"/>
       <property name="MPN" value="TS36CA-0.7"/>
       <property name="Manufacturer" value="SHOU HAN"/>
@@ -1393,7 +1393,7 @@
         <field name="MPN">TS36CA-0.7</field>
         <field name="Manufacturer">SHOU HAN</field>
       </fields>
-      <libsource lib="" part="Switch:SW_Push_3" description="Push button switch, generic, two pins"/>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="LCSC" value="C412365"/>
       <property name="MPN" value="TS36CA-0.7"/>
       <property name="Manufacturer" value="SHOU HAN"/>
@@ -1410,7 +1410,7 @@
         <field name="MPN">TS36CA-0.7</field>
         <field name="Manufacturer">SHOU HAN</field>
       </fields>
-      <libsource lib="" part="Switch:SW_Push_4" description="Push button switch, generic, two pins"/>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="LCSC" value="C412365"/>
       <property name="MPN" value="TS36CA-0.7"/>
       <property name="Manufacturer" value="SHOU HAN"/>
@@ -1969,454 +1969,6 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="R_Small_US_1">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_10">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_11">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_12">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_13">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_14">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_15">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_16">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_17">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_18">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_19">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_2">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_20">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_21">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_22">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_23">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_24">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_25">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_26">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_27">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_28">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_3">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_4">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_5">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_6">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_7">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_8">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="R_Small_US_9">
-      <description>Resistor, small US symbol</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>R_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">R</field>
-        <field name="Value">R_Small_US</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Diode" part="MBR0530">
       <description>30V 0.5A Schottky Power Rectifier Diode, SOD-123</description>
       <footprints>
@@ -2479,50 +2031,6 @@
       </pins>
     </libpart>
     <libpart lib="Switch" part="SW_Push">
-      <description>Push button switch, generic, two pins</description>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_Push</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_Push_1">
-      <description>Push button switch, generic, two pins</description>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_Push</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_Push_2">
-      <description>Push button switch, generic, two pins</description>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_Push</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_Push_3">
-      <description>Push button switch, generic, two pins</description>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_Push</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_Push_4">
       <description>Push button switch, generic, two pins</description>
       <fields>
         <field name="Reference">SW</field>
